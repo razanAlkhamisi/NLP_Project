@@ -11,8 +11,6 @@
 - show any other results
 
 
-## The link of the deployed Logestic Regression Model:
+## The link of the deployed Logestic Regression Model using Streamlit:
 https://insyjix9kxiis3wihih6zg.streamlit.app/
 
-## The wieghts of the Kim-CNN Model:
-https://drive.google.com/drive/folders/1Wda5rDim_t2h6X-XggJmvNdKa91Wf8ss?usp=sharing
